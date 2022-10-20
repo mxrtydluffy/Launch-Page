@@ -1,0 +1,12 @@
+.navbar {
+    padding: 1rem;
+    background-color: blue;
+  }
+  
+
+.hero-background-img {
+    background-image: url("background_1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
